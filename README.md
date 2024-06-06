@@ -7,7 +7,7 @@ Recommender system of group "robophobes". Our model for Movielens dataset aims t
 ## Steps to Reproduce
 1. **Clone the Repository:** Clone this repository to your local machine.
 2. **Run the first.ipynb:** This notebook contains all the functions. Running it will start the processes.
-3. **Results:** After running the scripts, you'll see visualizations and outputs.
+3. **Results:** After running the scripts, you'll see  outputs.
 
 ## File Descriptions
 -`First.ipynb`: Python script containing the fuctions to conduct the experiment.
